@@ -13,4 +13,4 @@ const spinner = function(rotations) {
   }
 };
 
-spinner(10); // --> call function passing param as number of full rotations you'd like
+spinner(3); // --> call function passing param as number of full rotations you'd like (try changing 3!)
